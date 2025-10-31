@@ -1,3 +1,6 @@
+<div align="left">
+    <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  height="275" width="675" />
+</div>
 # 💫 About Me:
 ## ⚡ About Me<br>```bash<br>> whoami<br>🧠 Dev | ☕ Caffeine-dependent | 💻 Always coding something<br><br>> skills --list<br>Python, TypeScript, React, Node.js, Docker, Linux<br><br>> currently_hacking_on<br>Building cool projects and exploring new tech stacks 🚀<br>
 

@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtndjN6NWN1czE3OG55aDVicjA4MjY5YmFhNmRrZnpvZjhpcHlkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HW3T1wWW3z2Ff2cpXO/giphy.gif"  height="275" width="675" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm41ajhldnp4a21mbGQ5d21rbXV4cXkwMTl3Z3NqeGV6NnFqZGI2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif"  height="275" width="675" />
 </div>
 # 💫 About Me:
 ## ⚡ About Me<br>```bash<br>> whoami<br>🧠 Dev | ☕ Caffeine-dependent | 💻 Always coding something<br><br>> skills --list<br>Python, TypeScript, React, Node.js, Docker, Linux<br><br>> currently_hacking_on<br>Building cool projects and exploring new tech stacks 🚀<br>

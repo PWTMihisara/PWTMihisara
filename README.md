@@ -1,5 +1,6 @@
 <div align="left">
-    <img src="https://share.google/GG7DlRT1ipbyGly3P"  height="275" width="675" />
+    <img src="<img width="500" height="213" alt="e2e7b0f7ad7ea7b06d58a322b5d8711a" src="https://github.com/user-attachments/assets/95fe4b2d-cdfa-44e0-bffa-b18b6b5a1252" />
+"  height="275" width="675" />
 </div>
 # 💫 About Me:
 ## ⚡ About Me<br>```bash<br>> whoami<br>🧠 Dev | ☕ Caffeine-dependent | 💻 Always coding something<br><br>> skills --list<br>Python, TypeScript, React, Node.js, Docker, Linux<br><br>> currently_hacking_on<br>Building cool projects and exploring new tech stacks 🚀<br>

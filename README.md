@@ -1,14 +1,14 @@
 ![Banner GIF](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 
-## Hi!, I'm Dwain : )
+## Hi!, I'm Thamindu : )
 
 **I'm:**
 
 ✨ Working on code. ✨
 
-🧑‍🤝‍🧑 Collaborating on code. 🤝
+🧠 Dev| ☕️ Caffeine-dependent |💻 Always coding something 🔥
 
-🔥 Fun fact about code! 🔥
+🚀 Building cool projects and exploring new tech stacks 🚀
 
 
 .....‼️ ERROR 404 ⁉️

@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm41ajhldnp4a21mbGQ5d21rbXV4cXkwMTl3Z3NqeGV6NnFqZGI2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif"  height="275" width="675" />
-</div>
+![Banner GIF](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 # 💫 About Me:
 ## ⚡ About Me<br>```bash<br>> whoami<br>🧠 Dev | ☕ Caffeine-dependent | 💻 Always coding something<br><br>> skills --list<br>Python, TypeScript, React, Node.js, Docker, Linux<br><br>> currently_hacking_on<br>Building cool projects and exploring new tech stacks 🚀<br>
 

@@ -1,10 +1,19 @@
 ![Banner GIF](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
-# 💫 About Me:
-## ⚡ About Me<br>```bash<br>> whoami<br>🧠 Dev | ☕ Caffeine-dependent | 💻 Always coding something<br><br>> skills --list<br>Python, TypeScript, React, Node.js, Docker, Linux<br><br>> currently_hacking_on<br>Building cool projects and exploring new tech stacks 🚀<br>
 
+## Hi!, I'm Dwain : )
+
+**I'm:**
+
+✨ Working on code. ✨
+
+🧑‍🤝‍🧑 Collaborating on code. 🤝
+
+🔥 Fun fact about code! 🔥
+
+
+.....‼️ ERROR 404 ⁉️
 
 ---
-
 ### Languages
 
 [![Languages Icons](https://skillicons.dev/icons?i=js,ts,html,css,cs,java,php,bash,c)](https://skillicons.dev)
